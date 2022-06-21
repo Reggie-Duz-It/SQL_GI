@@ -1,0 +1,1 @@
+SELECT sum(`quality`)  FROM `Weekly GI`.books;
